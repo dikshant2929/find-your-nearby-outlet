@@ -28,7 +28,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 In the project directory, you can run:
 
-### `cd server`
+### `cd backend`
 ### `npm start`
 
 Runs the app in the development mode.<br />
